@@ -8,7 +8,7 @@
   <title> Maseno ICT Club </title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/png" href="img/favicon.jpg"/>
 
@@ -19,21 +19,21 @@
   <!-- Revolution css -->
   <link rel="stylesheet" type="text/css" href="vendor/rs-plugin/css/settings.css" media="screen"/>
   <link rel="stylesheet" href="vendor/rs-plugin/css/extralayer.css">
-  
+
   <!-- Flat icon css -->
   <link rel="stylesheet" href="vendor/flat-icon/flaticon.css">
-  
+
   <!-- Font awesome -->
   <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
-  
+
   <!-- Owl Carosel css -->
   <link rel="stylesheet" href="vendor/owl/css/owl.carousel.css">
   <link rel="stylesheet" href="vendor/owl/css/owl.theme.default.css">
   <link rel="stylesheet" href="vendor/owl/css/owl.theme.css">
-  
+
   <!-- mmenu -->
   <link type="text/css" rel="stylesheet" href="vendor/mmenu/css/jquery.mmenu.css" />
-  
+
   <!-- Bootstrap css -->
   <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
 
@@ -44,10 +44,10 @@
   <link rel="stylesheet" href="css/hover.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/responsive.css">
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     window.onload = function(){ alert("Hi there Please not that this site is under construction get in touch with me Abraham @ abramogol@gmail.com or 0790463533 or karimkanji101@gmail.com");}
-  </script>
- 
+  </script> -->
+
 
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -262,15 +262,16 @@
 </div><!-- /.more-area -->
 
 <!-- OUR TEAM -->
-<section id="team" class="our-team section-padding">
+<!-- <section id="team" class="our-team section-padding">
   <div class="container">
     <div class="row">
       <div class="wow zoomIn col-xs-12 text-center p-padding">
         <h1 class="section-title">meet our team</h1>
         <p>Something here Something here Something here Something here Something here Something here Something here Something. Something here Something here Something here Something here Something here Something here Something here Something</p>
-      </div><!-- col-xs-12 -->
-    </div><!-- row -->
-    <div class="row">
+      </div> -->
+      <!-- col-xs-12 -->
+    <!-- </div><!-- row -->
+    <!-- <div class="row">
       <div class="wow zoomIn col-xs-12 col-sm-12 col-md-4">
         <div class="grid">
           <figure class="effect-duke">
@@ -283,7 +284,7 @@
                   <li><a href="https://www.linkedin.com/in/abraham-mcogol-b40b01bb/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div>
         <div class="team-designation">
@@ -303,7 +304,7 @@
                   <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div>
         <div class="team-designation">
@@ -323,7 +324,7 @@
                   <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div>
         <div class="team-designation">
@@ -332,8 +333,8 @@
         </div>
       </div>
     </div><!-- row -->
-  </div><!-- container -->
-</section><!-- our team -->
+  <!-- </div><!-- container -->
+<!-- </section><!-- end our team --> 
 
 <!-- COUNTING -->
 <section  class="counting section-padding">
@@ -439,6 +440,6 @@
     </div><!-- /.container -->
   </section><!-- get in touch -->
 
- 
+
 
  <?php include 'footer.php'; ?>
