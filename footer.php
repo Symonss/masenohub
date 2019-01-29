@@ -53,7 +53,7 @@
   </footer><!-- /Footer -->
 
 
-<!-- MMENU --> 
+<!-- MMENU -->
 <nav id="menu">
   <ul>
     <li><a href="#">home</a></li>
@@ -77,7 +77,7 @@
  <!-- Join Maseno ICT Modal -->
   <div class="modal fade" id="JoinModal" role="dialog">
     <div class="modal-dialog">
-    
+
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
@@ -92,7 +92,7 @@
           <label id="valPass">Password</label>
           <input type="password" placeholder="Password" class="form-control" name="passVal">
           <label id="valRepass">Re-type password</label>
-          <input type="password" placeholder="Re-type password" class="form-control" name="repassVal">         
+          <input type="password" placeholder="Re-type password" class="form-control" name="repassVal">
         </div>
         <div class="modal-footer">
           <div style="float:left;">Already have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#LoginModal" >Sign in</a></div>
@@ -101,14 +101,14 @@
         </div>
         </form>
       </div>
-      
+
     </div>
   </div>
 </div>
 <!-- Login Modal-->
 <div class="modal fade" id="LoginModal" role="dialog">
     <div class="modal-dialog">
-    
+
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
@@ -118,8 +118,8 @@
         <form method="post" action="" onsubmit="return validateForm2()" name="LoginForm">
           <label id="valEmail">Email</label>
           <input type="email" placeholder="Email" class="form-control" name="emailVal">
-          <label id="valPass">Password</label>  
-          <input type="password" placeholder="Password" class="form-control" name="passVal">      
+          <label id="valPass">Password</label>
+          <input type="password" placeholder="Password" class="form-control" name="passVal">
         </div>
         <div class="modal-footer">
           <div style="float:left;">Don't have an account? <a href="#" data-toggle="modal" data-target="#joinModal">Join here</a></div>
@@ -128,16 +128,16 @@
         </div>
         </form>
       </div>
-      
+
     </div>
   </div>
 </div>
 
 
 <!-- jQuery JS -->
-<script src="js/jquery-1.11.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-<!-- Modernizr JS --> 
+<!-- Modernizr JS -->
 <script src="js/modernizr-2.6.2.min.js"></script>
 
 <!--Bootatrap JS-->
@@ -217,7 +217,7 @@ function validateForm(){
     else if(!(z==null || z=="")){
       document.getElementById("valPass").innerHTML="Password";
         document.getElementById("valPass").style.color="black";
-        
+
     }
      if(w==null || w==""){
       document.getElementById("valRepass").innerHTML="Please retype password";
@@ -233,7 +233,7 @@ function validateForm(){
         return false;
     }
     }
-    
+
 }
  </script>
 
