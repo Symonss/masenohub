@@ -158,7 +158,7 @@
 <script src="js/wow.min.js"></script>
 
 <!-- waypoints JS-->
-<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 
 <!-- Counterup JS -->
 <script src="js/jquery.counterup.min.js"></script>
