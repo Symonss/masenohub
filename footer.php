@@ -166,8 +166,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 
 <!-- Smooth Scroll JS -->
-<!-- <script src="js/scrolling-nav.js"></script> -->
-<script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
+<script src="js/scrolling-nav.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/15.2.1/smooth-scroll.min.js"></script>
 
 <!-- Custom Script JS -->
