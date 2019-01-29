@@ -151,7 +151,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.1/shuffle.min.js"></script>
 
 <!-- mmenu -->
-<script type="text/javascript" src="vendor/mmenu/js/jquery.mmenu.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery.mmenu.4.7.5@4.7.5/src/js/jquery.mmenu.min.js"></script>
 
 <!-- Owl Carosel -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
