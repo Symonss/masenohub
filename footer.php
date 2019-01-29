@@ -166,7 +166,7 @@
 <script src="js/jquery.counterup.min.js"></script>
 
 <!-- Easing JS -->
-<script src="js/jquery.easing.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 
 <!-- Smooth Scroll JS -->
 <script src="js/scrolling-nav.js"></script>
