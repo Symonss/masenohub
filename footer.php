@@ -160,7 +160,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 
 <!-- Counterup JS  requires waypointsJS-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.counterup@2.1.0/jquery.counterup.min.js"></script>
 
 <!-- Easing JS -->
 <script src="js/jquery.easing.min.js"></script>
