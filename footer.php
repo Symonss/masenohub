@@ -154,7 +154,8 @@
 <script type="text/javascript" src="vendor/mmenu/js/jquery.mmenu.min.js"></script>
 
 <!-- Owl Carosel -->
-<script src="vendor/owl/js/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- <script src="vendor/owl/js/owl.carousel.min.js"></script> -->
 <script src="js/wow.min.js"></script>
 
 <!-- waypoints JS-->
