@@ -148,22 +148,22 @@
 <script type="text/javascript" src="vendor/rs-plugin/js/jquery.themepunch.revolution.js"></script>
 
 <!-- Shuffle JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.1/shuffle.min.js"></script>
+<script src="js/jquery.shuffle.min.js"></script>
 
 <!-- mmenu -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery.mmenu.4.7.5@4.7.5/src/js/jquery.mmenu.min.js"></script>
+<script type="text/javascript" src="vendor/mmenu/js/jquery.mmenu.min.js"></script>
 
 <!-- Owl Carosel -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="js/wow.min.js"></script>
 <!-- waypoints JS-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 
-<!-- Counterup JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.js"></script>
+<!-- Counterup JS  requires waypointsJS-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
 
 <!-- Easing JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
 
 <!-- Smooth Scroll JS -->
 <script src="js/scrolling-nav.js"></script>
