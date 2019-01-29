@@ -148,7 +148,7 @@
 <script type="text/javascript" src="vendor/rs-plugin/js/jquery.themepunch.revolution.js"></script>
 
 <!-- Shuffle JS -->
-<script src="js/jquery.shuffle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.1/shuffle.min.js"></script>
 
 <!-- mmenu -->
 <script type="text/javascript" src="vendor/mmenu/js/jquery.mmenu.min.js"></script>
