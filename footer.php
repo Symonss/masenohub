@@ -167,7 +167,7 @@
 
 <!-- Smooth Scroll JS -->
 <script src="js/scrolling-nav.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/15.2.1/smooth-scroll.min.js"></script>
+<script src="js/smoothscroll.min.js"></script>
 
 <!-- Custom Script JS -->
 <script src="js/script.js"></script>
