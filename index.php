@@ -247,7 +247,7 @@
     </div><!-- row-->
   </div><!-- container -->
 </section><!-- /clean idea and unique design -->
-
+    
 <div class="more-area">
   <div class="container">
     <div class="row">
