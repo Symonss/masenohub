@@ -10,7 +10,7 @@
   </div><!-- container -->
   <div class="portfolio-menu">
     <div class="container">
-      <div class="row"> 
+      <div class="row">
         <div class="col-xs-12">
           <ul class="wow zoomIn animated" id="filter" style="visibility: visible; animation-name: zoomIn;">
             <li><a data-group="all" href="#" class="active">all</a></li>
@@ -42,7 +42,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /.portfolio-item -->
@@ -77,7 +77,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -113,7 +113,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -148,7 +148,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -183,7 +183,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -219,7 +219,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -254,7 +254,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -289,7 +289,7 @@
                 <p>Mornign Dew</p>
                 <strong>Icons, Illustrations</strong>
               </div>
-            </figcaption>     
+            </figcaption>
           </figure>
         </div><!-- /.portfolio -->
       </div><!-- /portfolio-item -->
@@ -308,6 +308,6 @@
         </div>
       </div>
       <!-- MODAL/POPUP -->
-    </div> <!-- /grid --> 
+    </div> <!-- /grid -->
   </div><!-- /row -->
 </section><!-- /our latest works -->
