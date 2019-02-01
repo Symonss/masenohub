@@ -11,8 +11,8 @@
             <p class="footer-heading">link</p>
             <ul class="footermenu">
               <li><a data-scroll data-options='{ "easing": "easeInQuad" }'  href="#about">about us</a></li>
-              <li><a data-scroll data-options='{ "easing": "easeInQuad" }'  href="#services">services</a></li>
-              <li><a data-scroll data-options='{ "easing": "easeInQuad" }'  href="#product">product</a></li>
+              <li><a data-scroll data-options='{ "easing": "easeInQuad" }'  href="#services">events</a></li>
+              <li><a data-scroll data-options='{ "easing": "easeInQuad" }'  href="#product">projects</a></li>
               <li><a data-scroll data-options='{ "easing": "easeInQuad" }'  href="#team">team</a></li>
               <li><a data-scroll data-options='{ "easing": "easeInQuad" }' href="#blog">blog</a></li>
             </ul>
@@ -22,8 +22,8 @@
             <ul class="footercontact">
               <li><i class="flaticon-mainpage"></i><span>address:</span> One TECHGUT loop, 54100</li>
               <li><i class="flaticon-phone16"></i><span>phone:</span><a href="tel:88 02 8714612"> +88 02 8714612</a></li>
-              <li><i class="flaticon-email21"></i><span>e-mail:</span><a href="mailto:support@themerole.com"> support@themerole.com</a></li>
-              <li><i class="flaticon-world91"></i><span>web:</span><a href="http://themerole.com"> www.themerole.com</a></li>
+              <li><i class="flaticon-email21"></i><span>e-mail:</span><a href="mailto:maseno.hub@gmail.com"> MasenoHub</a></li>
+              <li><i class="flaticon-world91"></i><span>web:</span><a href="https://masenohub.co.ke"> https://masenohub.co.ke</a></li>
             </ul>
             <i class="flaticon-home78"></i>
           </div><!-- /.col-xs-12 .col-sm-3 .col-md-3 -->
