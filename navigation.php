@@ -3,7 +3,7 @@
             <li ><a class="page-scroll" href="#home">Home</a></li>
             <li> <a class="page-scroll" href="#about">about us</a></li>
             <li> <a class="page-scroll" href="#services">projects</a></li>
-            <li> <a class="page-scroll" href="#product">events</a></li>
+            <li> <a class="page-scroll" href="events.php">events</a></li>
             <li> <a class="page-scroll" href="gallery.php">resources</a></li>
             <li> <a class="page-scroll" href="#team">team</a></li>
             <li class="dropdown"> <a class="page-scroll drop dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" href="#blog">blog</a>
