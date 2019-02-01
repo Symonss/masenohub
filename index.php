@@ -248,7 +248,7 @@
   </div><!-- container -->
 </section><!-- /clean idea and unique design -->
 
-<?php include 'works.php'; ?>
+
 
 <div class="more-area">
   <div class="container">
