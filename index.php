@@ -247,9 +247,7 @@
     </div><!-- row-->
   </div><!-- container -->
 </section><!-- /clean idea and unique design -->
-
-
-
+    
 <div class="more-area">
   <div class="container">
     <div class="row">
@@ -356,13 +354,6 @@
   </div><!-- /.container -->
 </section><!-- counting -->
 
-
-
-<!-- for testimonial and blog    -->
-
-<?php include 'blog.php'; ?>
-
-<!-- for testimonial and blog    -->
 
   <!-- our partner -->
   <section class="partner-wrapper">
