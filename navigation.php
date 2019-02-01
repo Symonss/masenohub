@@ -14,7 +14,7 @@
             </li>
 
           <li><a class="page-scroll" href="#contact">Contact</a></li>
-          <li><a class="page-scroll" href="#forum">forum</a></li>
+          <li><a class="page-scroll" href="blog-sidebar.php">forum</a></li>8
           <li><a class="page-scroll" href="#" data-toggle="modal" data-target="#LoginModal" >Login</a></li>
            <!-- Search Block -->
           <li>
